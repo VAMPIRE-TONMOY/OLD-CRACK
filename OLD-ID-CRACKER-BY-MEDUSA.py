@@ -436,7 +436,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 11; RMX2195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36;]"
 		])
 		sys.stdout.write(
-			"\r\r %s[>_] [VǢMPÏRÊ_OLD] : %s/%s -> \033[0;92m [ R140N-OK:%s ]- \033[0;91m[R140N-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s[>_] [VǢMPÏRÊ_OLD] : %s/%s -> \033[0;92m [ VǢMPÏRÊ-OK:%s ]- \033[0;91m[VǢMPÏRÊ-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
