@@ -40,7 +40,7 @@ def runtxt(z):
 
 
 def helpnote():
-	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
+	print("%s [*] FUCK SURAIYA'S MOTHER & TAKE NEW UPDATES  :)"%(G))
 	subprocess.check_output(["am", "start", "https://github.com/justinlucifer/Approval-/blob/main/Approval.txt"])
 	exit(" [*] FACEBOOK :  VǢMPÏRÊ᭄ ゝ༺ʚĩɞ༻")
 
@@ -104,8 +104,8 @@ class Main:
 | |/ / ___ |/ /  / / ____// // _, _/ /___      
 |___/_/  |_/_/  /_/_/   /___/_/ |_/_____/                                 
 \033[1;90m══════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mOWNER    : MD NANU MIAH  
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : King of Bhai brother's 
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mOWNER    : JUSTIN TONMOY  
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : VǢMPÏRÊ᭄ゝ༺ʚĩɞ༻
 \033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mGITHUB   : justinlucifer
 \033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mWHATSAPP : 01300161579
 \033[1;90m══════════════════════════════════════════════════
